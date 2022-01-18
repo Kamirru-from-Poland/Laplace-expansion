@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laplace-expansion", "Laplace-expansion.csproj", "{B5F4B0A0-B838-4E96-B900-25A00497D3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F4B0A0-B838-4E96-B900-25A00497D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F4B0A0-B838-4E96-B900-25A00497D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F4B0A0-B838-4E96-B900-25A00497D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F4B0A0-B838-4E96-B900-25A00497D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954E11BD-0850-45CE-8BC0-F1ADB35BA7ED}
+	EndGlobalSection
+EndGlobal

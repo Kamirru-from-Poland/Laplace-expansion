@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion.exe
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion.deps.json
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\ref\Laplace-expansion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion.pdb
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.GlobalUsings.g.cs
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\ref\Laplace-expansion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.pdb
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion.genruntimeconfig.cache
