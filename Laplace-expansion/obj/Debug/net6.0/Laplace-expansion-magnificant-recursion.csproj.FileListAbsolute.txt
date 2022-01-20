@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion-magnificant-recursion.exe
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion-magnificant-recursion.deps.json
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion-magnificant-recursion.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion-magnificant-recursion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\ref\Laplace-expansion-magnificant-recursion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\bin\Debug\net6.0\Laplace-expansion-magnificant-recursion.pdb
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.GlobalUsings.g.cs
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\ref\Laplace-expansion-magnificant-recursion.dll
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.pdb
+C:\Users\PC\Documents\GitHub\Laplace-expansion\Laplace-expansion\obj\Debug\net6.0\Laplace-expansion-magnificant-recursion.genruntimeconfig.cache
